@@ -1,0 +1,37 @@
+{
+    "latest_task_id": 4,
+    "tasks": [
+        {
+            "name": "Finish Rust CLI",
+            "date_created": "2025-03-17T10:30:00Z",
+            "due_date": "2025-03-20T23:59:59Z",
+            "description": "Complete the task manager CLI project in Rust.",
+            "category": "Development",
+            "task_id": 1
+        },
+        {
+            "name": "Write Documentation",
+            "date_created": "2025-03-17T11:00:00Z",
+            "due_date": "2025-03-22T23:59:59Z",
+            "description": "Write a user guide for the CLI application.",
+            "category": "Documentation",
+            "task_id": 2
+        },
+        {
+            "name": "Test JSON Import",
+            "date_created": "2025-03-17T12:15:00Z",
+            "due_date": "2025-03-18T18:00:00Z",
+            "description": "Ensure that the CLI properly loads tasks from JSON.",
+            "category": "Testing",
+            "task_id": 3
+        },
+        {
+            "name": "Refactor Task Struct",
+            "date_created": "2025-03-17T13:45:00Z",
+            "due_date": "2025-03-19T12:00:00Z",
+            "description": "Optimize Task struct for future database migration.",
+            "category": "Development",
+            "task_id": 4
+        }
+    ]
+}
